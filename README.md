@@ -1,4 +1,4 @@
-<h1>Hi, I'm Caleb, an <a href="(https://www.linkedin.com/in/caleb-lofton-1973a5227/)">IT Professional</a>☺</h1>
+<h1>Hi, I'm Caleb, an <a href="https://www.linkedin.com/in/caleb-lofton-1973a5227/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
